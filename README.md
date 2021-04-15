@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 I'm Néstor, a senior software developer located in Vigo, Spain. I'm currently working at [IriusRisk](https://iriusrisk.com/).
 
