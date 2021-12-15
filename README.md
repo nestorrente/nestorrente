@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Néstor, a senior software developer located in Vigo, Spain. I'm currently working at [IriusRisk](https://iriusrisk.com/).
+I'm Néstor, a senior software developer located in Vigo, Spain. I'm currently working at [ManoMano](https://www.manomano.es/).
 
 I love development. I started programming little video games as a hobby when I was around 15, much time before it came to a job. I defend that writing software is an art, just like poetry or painting.
 
