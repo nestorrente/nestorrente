@@ -11,7 +11,7 @@ Happy coding! 💻
 #### Random facts about myself
 
 * I've spoken once in a meetup, and I would like to repeat it soon 🙂 here you can check the meetup information: [Building a chatroom with Vue.js, Java and RSocket](https://www.meetup.com/es/VigoJUG/events/267185946/).
-* I participated in the [Java Challenge Spain 2019]([https://www.muycomputerpro.com/zona-ticjob/between-java-challenge-de-espana/](https://atlanticacomunicacion.com/el-vigues-nestor-perez-ganador-del-primer-java-challenge-en-espana/)) (and won! 🏆 😀)
+* I participated in the [Java Challenge Spain 2019](https://atlanticacomunicacion.com/el-vigues-nestor-perez-ganador-del-primer-java-challenge-en-espana/)) (and won! 🏆 😀)
 * I used to develop video games when I was young(er) 🎮 [here you can watch gameplay of one of those games](https://www.youtube.com/watch?v=7SxHH6kbzGI).
 
 <a target="_blank" href="https://github.com/nestorrente">
